@@ -1,6 +1,3 @@
-[submodule "ansifold"]
-	path = ansifold
-	url = git@github.com:kaz-utashiro/ansifold.git
 [submodule "ansiecho"]
 	path = ansiecho
 	url = git@github.com:kaz-utashiro/App-ansiecho
