@@ -16,3 +16,12 @@
 [submodule "ansiexpand"]
 	path = ansiexpand
 	url = git@github.com:kaz-utashiro/App-ansiexpand.git
+[submodule "Tabs"]
+	path = Tabs
+	url = git@github.com:kaz-utashiro/Text-ANSI-Tabs.git
+[submodule "Printf"]
+	path = Printf
+	url = git@github.com:kaz-utashiro/Text-ANSI-Printf.git
+[submodule "Term-ANSIColor-Concise"]
+	path = Term-ANSIColor-Concise
+	url = git@github.com:kaz-utashiro/Term-ANSIColor-Concise.git
