@@ -22,3 +22,6 @@
 [submodule "Term-ANSIColor-Concise"]
 	path = Term-ANSIColor-Concise
 	url = git@github.com:kaz-utashiro/Term-ANSIColor-Concise.git
+[submodule "ansifold"]
+	path = ansifold
+	url = git@github.com:kaz-utashiro/App-ansifold
