@@ -4,9 +4,6 @@
 [submodule "Fold-Util"]
 	path = Fold-Util
 	url = git@github.com:kaz-utashiro/Text-ANSI-Fold-Util.git
-[submodule "Fold"]
-	path = Fold
-	url = git@github.com:kaz-utashiro/Text-ANSI-Fold.git
 [submodule "ansiexpand"]
 	path = ansiexpand
 	url = git@github.com:kaz-utashiro/App-ansiexpand.git
