@@ -22,3 +22,6 @@
 [submodule "Fold"]
 	path = Fold
 	url = https://github.com/tecolicom/Text-ANSI-Fold.git
+[submodule "Fold-Util"]
+	path = Fold-Util
+	url = https://github.com/tecolicom/Text-ANSI-Fold-Util.git
