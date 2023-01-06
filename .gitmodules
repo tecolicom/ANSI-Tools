@@ -1,9 +1,6 @@
 [submodule "ansiecho"]
 	path = ansiecho
 	url = git@github.com:kaz-utashiro/App-ansiecho
-[submodule "Fold-Util"]
-	path = Fold-Util
-	url = git@github.com:kaz-utashiro/Text-ANSI-Fold-Util.git
 [submodule "ansiexpand"]
 	path = ansiexpand
 	url = git@github.com:kaz-utashiro/App-ansiexpand.git
@@ -22,3 +19,6 @@
 [submodule "ansicolumn"]
 	path = ansicolumn
 	url = https://github.com/tecolicom/App-ansicolumn.git
+[submodule "Fold"]
+	path = Fold
+	url = https://github.com/tecolicom/Text-ANSI-Fold.git
